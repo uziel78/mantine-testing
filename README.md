@@ -2,6 +2,7 @@
 
 - Making a llama life clone using next.js and mantine.
 - tabler-icons react used for icons
+- original found here: https://www.youtube.com/watch?v=zhfkOjtBQNI&ab_channel=JamesPerkins, by James Perkins
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
